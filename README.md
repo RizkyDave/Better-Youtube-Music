@@ -49,7 +49,7 @@ TO DO of features that will be added
 | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
 | 0.52+ | 49.0+ | 49.0+ | 79.0+ | 44.0+ | 36.0+ | x.x+ | 1.0+ | 
 
-<details><summary><h2>Need Preview? 👀</h2></summary>
+<details><summary><h2>Wanna See A Preview? 👀</h2></summary>
 <img width="1552" alt="Preview 1" src="https://github.com/Dappy-Net/Better-Youtube-Music/blob/main/assets/preview%20bym.jpeg">
 
   

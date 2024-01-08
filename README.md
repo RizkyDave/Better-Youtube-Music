@@ -1,13 +1,13 @@
 <div align="center">
     <img height="80" src="/assets/AppleMUsic.png"></img>
     <h1>Better Youtube Music</h1>
-    <a href="#getting-started">Getting started</a> |
-    <a href="#privacy">How it Works?</a> |
+    <a href="#Introduction">Introduction</a> |
+    <a href="#how-it-works">How it Works?</a> |
     <a href="#development">Development</a> |
     <a href="#contributors">How To Use</a>
 </div>
 <br>
-<div align="center">
+<div id="Introduction" align="center">
 <h3>🚩 Introduction</h3>
 
 <p><b>Better Youtube Music</b> is a theme design for the YouTube music<br> website which is made similar to the Apple Music user interface<br>

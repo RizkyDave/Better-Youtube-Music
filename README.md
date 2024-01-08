@@ -25,8 +25,8 @@ DOM manipulation</b> using <b>TapperMonkey</b></p>
 
 ## How it works
 
-This extension uses some API tricks to access age-restricted videos from YouTube anonymously. As a fallback (in case that the API bypass methods does not work) an open source [Account Proxy Server](/account-proxy) is used. This allows you to watch all types of age-restricted videos on **YouTube** and **YouTube Music** without age verification and without the need to be signed in.
+This extension functions to change the appearance of YouTube Music to have a UI similar to Apple Music, and how does it work? so in this code you can manipulate objects/elements from the YouTube Music website and change them and add new code using the [DOM](https://www.w3schools.com/js/js_htmldom.asp) with [Tappermonkey](https://www.tampermonkey.net/) as a means to change the dom of the YouTube Music website itself
 
-All videos will be unlocked automatically!
+and boom the view from YouTube Music to Apple Music
 
 

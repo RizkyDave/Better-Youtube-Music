@@ -25,8 +25,32 @@ DOM manipulation</b> using <b>TapperMonkey</b></p>
 
 ## How it works
 
-This extension functions to change the appearance of YouTube Music to have a UI similar to Apple Music, and how does it work? so in this code you can manipulate objects/elements from the YouTube Music website and change them and add new code using the [DOM](https://www.w3schools.com/js/js_htmldom.asp) with [Tappermonkey](https://www.tampermonkey.net/) as a means to change the dom of the YouTube Music website itself
+This extension functions to change the appearance of YouTube Music to have a UI similar to Apple Music, and how does it work? so in this code you can manipulate objects/elements from the YouTube Music website and change them and add new code using the [DOM](https://www.w3schools.com/js/js_htmldom.asp) with [Tappermonkey](https://www.tampermonkey.net/) as a means to change the dom of the YouTube Music website itself 
 
 and boom the view from YouTube Music to Apple Music
 
+## Development
+what we added and what we edited
+| We Added        | We Edited          |
+| ------------- |:-------------:|
+| New Navigation     | Ui color change |
+| New Logo      | playlist space      |
+| New Navigation list | Youtube Logo      |
+| New UI | Navigation      |
 
+TO DO of features that will be added
+- [ ] new logo and font
+- [ ] new players ui
+- [ ] edited Search bar
+- [x] ~~Popup hover like apple music~~ its hard af
+
+#### Web Browser Support 
+|[Brave](https://brave.com) | [Chromium](https://github.com/chromium/chromium) | [Chrome](https://chrome.google.com/webstore/detail/spoton/hnbcgkmojpjmncmplcnefjnmcbckadff?hl=en&authuser=0) | [Edge](https://www.microsoft.com/edge) | [Firefox](https://foundation.mozilla.org) | [Opera](https://addons.opera.com) | [Safari](https://www.apple.com/safari/) | [Vivaldi](https://github.com/ric2b/Vivaldi-browser) |
+| --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| 0.52+ | 49.0+ | 49.0+ | 79.0+ | 44.0+ | 36.0+ | x.x+ | 1.0+ | 
+
+<details><summary><h2>Need Preview? 👀</h2></summary>
+<img width="1552" alt="Preview 1" src="https://github.com/Dappy-Net/Better-Youtube-Music/blob/main/assets/preview%20bym.jpeg">
+
+  
+</details>
